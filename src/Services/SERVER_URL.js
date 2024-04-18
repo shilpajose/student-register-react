@@ -1,1 +1,1 @@
-export const SERVER_URL = "https://student-register-server.onrender.com"
+export const SERVER_URL = "https://student-register-server-1.onrender.com"
