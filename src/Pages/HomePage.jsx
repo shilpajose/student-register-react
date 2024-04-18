@@ -179,10 +179,9 @@ function HomePage() {
                             />
                         </FloatingLabel>
 
-                        <label for="course">Choose a Course:</label>
                         <select className='form-control text-danger'
                             name="course" id="course" value={inputs.course} onChange={e => setInputs({ ...inputs, course: e.target.value })}>
-                            <option>Select</option>
+                            <option>Select a Course</option>
                             <option value="Biology">Biology</option>
                             <option value="Computer Science">Computer Science</option>
                             <option value="Commerce">Commerce</option>
