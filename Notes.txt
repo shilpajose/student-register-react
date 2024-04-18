@@ -1,0 +1,14 @@
+ import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
+
+                  <ToastContainer position='top-center' theme='colored' autoClose={3000} />
+
+
+
+
+
+       
+
+
+
+           
